@@ -1,11 +1,18 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
+		"C++ Starting Kit",
+		"GitGutter",
+		"MSBuild",
+		"Oasis Theme",
+		"Origami",
 		"Package Control",
-		"Theme - Numix"
+		"sublime-text-2-buildview",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"Theme - Numix",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray"
 	]
 }

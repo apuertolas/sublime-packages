@@ -1,8 +1,21 @@
 {
-	"font_size": 10,
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Oasis Theme/Oasis.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "consolas",
+	"font_options": ["directwrite", "gray_antialias"],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"ANSIescape",
+		"GitGutter",
 		"Vintage"
 	],
-	"theme": "Numix.sublime-theme"
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"theme": "Spacegray.sublime-theme",
+	"word_wrap": true
 }
