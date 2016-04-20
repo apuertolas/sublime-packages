@@ -1,13 +1,22 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"C++ Starting Kit",
+		"Dark Neon Color Scheme",
+		"Dotfiles Syntax Highlighting",
 		"GitGutter",
+		"Monokai JSON+",
 		"MSBuild",
+		"Neon Color Scheme",
 		"Oasis Theme",
 		"Origami",
 		"Package Control",
+		"requirementstxt",
 		"sublime-text-2-buildview",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
