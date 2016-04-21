@@ -19,15 +19,15 @@
 		"Dark Neon Color Scheme",
 		"Dotfiles Syntax Highlighting",
 		"Flex",
-		"GitGutter",
 		"Lua Dev",
 		"Neon Color Scheme",
 		"Puppet",
-		"SublimePrettyJson",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"theme": "Spacegray.sublime-theme",
-	"word_wrap": true
+	"word_wrap": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
 }
