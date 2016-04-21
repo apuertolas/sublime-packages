@@ -1,4 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
-	"stuff" : { "boo" : "lol"}
+	"extensions":
+	[
+		"fab"
+	],
 }
