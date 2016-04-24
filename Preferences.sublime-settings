@@ -26,8 +26,8 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme": "Spacegray.sublime-theme",
-	"word_wrap": true,
 	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"word_wrap": true
 }
