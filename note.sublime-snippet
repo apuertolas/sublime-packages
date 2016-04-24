@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[// Note (${1:albert}) $2.]]></content>
+    <tabTrigger>note</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
