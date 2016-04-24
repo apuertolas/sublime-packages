@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[// TODO(albert) $1.]]></content>
+    <tabTrigger>todo</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
